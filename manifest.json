@@ -1,0 +1,16 @@
+{  
+  "short_name": "WG Lite",  
+  "name": "WG Lite",  
+  "start_url": "index.html",  
+  "icons": [  
+    {  
+      "src": "icon-192x192.png",  
+      "sizes": "192x192",  
+      "type": "image/png"  
+    }
+  ],  
+  "background_color": "#FAFAFA",
+  "theme_color": "#512DA8", 
+  "display": "standalone",  
+  "orientation": "portrait"  
+}
